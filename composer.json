@@ -1,0 +1,14 @@
+{
+    "name": "annahowell/bookstore",
+    "description": "Simple Bookstore webapp that uses a bespoke MVC CMS framework",
+    "type": "project",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Anna Howell",
+            "email": "5971775+annahowell@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
